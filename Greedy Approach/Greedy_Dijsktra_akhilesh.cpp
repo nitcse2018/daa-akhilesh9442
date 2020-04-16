@@ -1,8 +1,3 @@
-//Greedy Approach
-
-//Author: Abhishek Kumar Suman
-//Roll number:181210002
-//Branch: CSE 2nd year
 
 //Implementation of Dijisktra's Algorithm.
 
